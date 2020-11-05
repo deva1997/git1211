@@ -1,0 +1,2 @@
+ hai this is the jenkins project
+demo of the poll scm project
